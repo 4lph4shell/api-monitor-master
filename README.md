@@ -7,3 +7,7 @@
 <p align="center">A CLI program that help you check your endpoints by requesting the given servers and send a report message in any supported channel ( Telegram )</p>
 <br>
 <hr>
+
+#### <center>This is a CLI project that build with <a href="https://laravel-zero.com">Laravel Zero</a></center>
+
+### Features
